@@ -1,0 +1,1287 @@
+2019-03-06 06:35:05,575 INFO [main] Starting FileDemoApplication on icrtrnd-testpod-icai01.infacloudops.net with PID 26407 (/home/ec2-user/file-demo/target/classes started by root in /home/ec2-user/file-demo)
+2019-03-06 06:35:05,585 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 06:35:07,060 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 06:35:07,078 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 06:35:07,101 INFO [main] Starting service [Tomcat]
+2019-03-06 06:35:07,101 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 06:35:07,114 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+2019-03-06 06:35:07,214 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 06:35:07,214 INFO [main] Root WebApplicationContext: initialization completed in 1545 ms
+2019-03-06 06:35:07,499 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 06:35:07,699 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 06:35:07,819 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 06:35:07,871 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 06:35:07,875 INFO [main] Started FileDemoApplication in 2.9 seconds (JVM running for 6.134)
+2019-03-06 06:35:45,451 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 06:35:45,452 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 06:35:45,459 INFO [http-nio-8080-exec-1] Completed initialization in 7 ms
+2019-03-06 06:35:58,959 INFO [Thread-4] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-06 13:32:08,631 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 17736 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 13:32:08,636 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 13:32:10,293 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 13:32:10,312 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:32:10,325 INFO [main] Starting service [Tomcat]
+2019-03-06 13:32:10,326 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 13:32:10,338 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 13:32:10,462 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 13:32:10,463 INFO [main] Root WebApplicationContext: initialization completed in 1769 ms
+2019-03-06 13:32:10,733 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 13:32:10,859 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 13:32:10,939 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:32:10,973 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 13:32:10,978 INFO [main] Started FileDemoApplication in 2.941 seconds (JVM running for 3.426)
+2019-03-06 13:35:19,415 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 13:35:19,415 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 13:35:19,421 INFO [http-nio-8080-exec-1] Completed initialization in 5 ms
+2019-03-06 13:35:19,466 ERROR [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.example.filedemo.controller.FileController.executeCommand(FileController.java:88)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2019-03-06 13:39:16,488 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 8008 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 13:39:16,493 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 13:39:18,346 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 13:39:18,368 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:39:18,379 INFO [main] Starting service [Tomcat]
+2019-03-06 13:39:18,380 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 13:39:18,391 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 13:39:18,545 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 13:39:18,545 INFO [main] Root WebApplicationContext: initialization completed in 1991 ms
+2019-03-06 13:39:18,642 WARN [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fileController': Unsatisfied dependency expressed through field 'auth'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.filedemo.auth.Authenticate' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-03-06 13:39:18,645 INFO [main] Stopping service [Tomcat]
+2019-03-06 13:39:18,655 INFO [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-03-06 13:39:18,779 ERROR [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field auth in com.example.filedemo.controller.FileController required a bean of type 'com.example.filedemo.auth.Authenticate' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.filedemo.auth.Authenticate' in your configuration.
+
+2019-03-06 13:44:09,988 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 11324 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 13:44:09,992 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 13:44:11,554 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 13:44:11,571 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:44:11,586 INFO [main] Starting service [Tomcat]
+2019-03-06 13:44:11,587 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 13:44:11,601 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 13:44:11,737 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 13:44:11,737 INFO [main] Root WebApplicationContext: initialization completed in 1691 ms
+2019-03-06 13:44:11,995 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 13:44:12,104 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 13:44:12,185 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:44:12,225 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 13:44:12,229 INFO [main] Started FileDemoApplication in 2.835 seconds (JVM running for 3.232)
+2019-03-06 13:44:20,840 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 13:44:20,841 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 13:44:20,849 INFO [http-nio-8080-exec-1] Completed initialization in 7 ms
+2019-03-06 13:45:25,679 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 18368 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 13:45:25,686 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 13:45:27,303 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 13:45:27,319 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:45:27,329 INFO [main] Starting service [Tomcat]
+2019-03-06 13:45:27,329 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 13:45:27,339 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 13:45:27,440 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 13:45:27,440 INFO [main] Root WebApplicationContext: initialization completed in 1703 ms
+2019-03-06 13:45:27,677 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 13:45:27,784 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 13:45:27,860 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:45:27,889 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 13:45:27,893 INFO [main] Started FileDemoApplication in 2.805 seconds (JVM running for 3.247)
+2019-03-06 13:45:32,615 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 13:45:32,616 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 13:45:32,623 INFO [http-nio-8080-exec-1] Completed initialization in 6 ms
+2019-03-06 13:46:15,508 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 6568 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 13:46:15,513 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 13:46:17,092 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 13:46:17,113 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:46:17,124 INFO [main] Starting service [Tomcat]
+2019-03-06 13:46:17,125 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 13:46:17,135 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 13:46:17,248 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 13:46:17,248 INFO [main] Root WebApplicationContext: initialization completed in 1675 ms
+2019-03-06 13:46:17,531 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 13:46:17,711 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 13:46:17,822 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:46:17,861 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 13:46:17,867 INFO [main] Started FileDemoApplication in 2.933 seconds (JVM running for 3.347)
+2019-03-06 13:46:33,677 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 13:46:33,677 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 13:46:33,683 INFO [http-nio-8080-exec-1] Completed initialization in 6 ms
+2019-03-06 13:49:51,138 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 9052 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 13:49:51,141 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 13:49:52,593 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 13:49:52,613 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:49:52,669 INFO [main] Starting service [Tomcat]
+2019-03-06 13:49:52,669 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 13:49:52,689 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 13:49:52,903 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 13:49:52,904 INFO [main] Root WebApplicationContext: initialization completed in 1712 ms
+2019-03-06 13:49:53,334 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 13:49:53,463 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 13:49:53,551 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:49:53,593 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 13:49:53,598 INFO [main] Started FileDemoApplication in 2.994 seconds (JVM running for 3.43)
+2019-03-06 13:50:03,556 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 13:50:03,557 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 13:50:03,564 INFO [http-nio-8080-exec-1] Completed initialization in 7 ms
+2019-03-06 13:50:29,130 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 10016 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 13:50:29,134 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 13:50:30,733 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 13:50:30,760 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:50:30,772 INFO [main] Starting service [Tomcat]
+2019-03-06 13:50:30,772 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 13:50:30,782 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 13:50:30,896 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 13:50:30,897 INFO [main] Root WebApplicationContext: initialization completed in 1688 ms
+2019-03-06 13:50:31,192 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 13:50:31,315 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 13:50:31,389 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:50:31,426 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 13:50:31,430 INFO [main] Started FileDemoApplication in 2.904 seconds (JVM running for 3.357)
+2019-03-06 13:50:33,459 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 13:50:33,460 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 13:50:33,466 INFO [http-nio-8080-exec-1] Completed initialization in 6 ms
+2019-03-06 13:50:56,912 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 11004 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 13:50:56,916 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 13:50:58,366 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 13:50:58,383 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:50:58,392 INFO [main] Starting service [Tomcat]
+2019-03-06 13:50:58,392 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 13:50:58,402 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 13:50:58,499 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 13:50:58,499 INFO [main] Root WebApplicationContext: initialization completed in 1537 ms
+2019-03-06 13:50:58,753 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 13:50:58,877 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 13:50:58,955 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 13:50:58,986 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 13:50:58,989 INFO [main] Started FileDemoApplication in 2.603 seconds (JVM running for 3.075)
+2019-03-06 13:51:01,624 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 13:51:01,624 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 13:51:01,631 INFO [http-nio-8080-exec-1] Completed initialization in 6 ms
+2019-03-06 14:06:52,463 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 3764 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 14:06:52,468 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 14:06:54,011 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 14:06:54,050 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:06:54,070 INFO [main] Starting service [Tomcat]
+2019-03-06 14:06:54,070 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 14:06:54,088 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 14:06:54,263 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 14:06:54,264 INFO [main] Root WebApplicationContext: initialization completed in 1749 ms
+2019-03-06 14:06:54,476 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:06:54,575 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 14:06:54,646 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:06:54,661 ERROR [main] Failed to start component [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1004)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.example.filedemo.FileDemoApplication.main(FileDemoApplication.java:15)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1001)
+	... 14 common frames omitted
+2019-03-06 14:06:54,666 INFO [main] Pausing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:06:54,666 INFO [main] Stopping service [Tomcat]
+2019-03-06 14:06:54,672 INFO [main] The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-03-06 14:06:54,673 INFO [main] Stopping ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:06:54,673 INFO [main] Destroying ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:06:54,676 INFO [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-03-06 14:06:54,678 ERROR [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-03-06 14:06:54,681 INFO [main] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:07:01,260 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 14760 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 14:07:01,265 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 14:07:02,836 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 14:07:02,852 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:07:02,862 INFO [main] Starting service [Tomcat]
+2019-03-06 14:07:02,862 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 14:07:02,872 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 14:07:02,999 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 14:07:02,999 INFO [main] Root WebApplicationContext: initialization completed in 1677 ms
+2019-03-06 14:07:03,222 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:07:03,327 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 14:07:03,392 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:07:03,423 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 14:07:03,426 INFO [main] Started FileDemoApplication in 2.746 seconds (JVM running for 3.232)
+2019-03-06 14:07:13,614 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 14:07:13,614 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 14:07:13,621 INFO [http-nio-8080-exec-1] Completed initialization in 6 ms
+2019-03-06 14:07:13,673 ERROR [http-nio-8080-exec-1] Property file missing
+2019-03-06 14:07:13,674 INFO [http-nio-8080-exec-1] Pem file found
+2019-03-06 14:07:13,675 INFO [http-nio-8080-exec-1] Executing commnad: add-haproxy-host 10.127.77.67 icrtrnd-testpod-icai01.infacloudops.net tomcat \"icrt\"from node: INW3PB03CSBG/10.0.75.1
+2019-03-06 14:07:13,705 ERROR [http-nio-8080-exec-1] Error in process builder
+2019-03-06 14:07:13,705 INFO [http-nio-8080-exec-1] command execution done
+2019-03-06 14:07:13,712 ERROR [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.example.filedemo.controller.FileController.executeCommand(FileController.java:141)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2019-03-06 14:16:19,739 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 10384 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 14:16:19,746 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 14:16:21,008 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 19376 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 14:16:21,012 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 14:16:23,213 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 14:16:23,253 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:23,271 INFO [main] Starting service [Tomcat]
+2019-03-06 14:16:23,272 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 14:16:23,301 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 14:16:23,304 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 14:16:23,330 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:23,346 INFO [main] Starting service [Tomcat]
+2019-03-06 14:16:23,347 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 14:16:23,361 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 14:16:23,493 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 14:16:23,494 INFO [main] Root WebApplicationContext: initialization completed in 2420 ms
+2019-03-06 14:16:23,509 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 14:16:23,509 INFO [main] Root WebApplicationContext: initialization completed in 3667 ms
+2019-03-06 14:16:23,846 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:16:23,971 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:16:24,000 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 14:16:24,089 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:24,127 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 14:16:24,131 INFO [main] Started FileDemoApplication in 4.018 seconds (JVM running for 4.628)
+2019-03-06 14:16:24,205 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 14:16:24,287 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:24,301 ERROR [main] Failed to start component [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1004)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.example.filedemo.FileDemoApplication.main(FileDemoApplication.java:15)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1001)
+	... 14 common frames omitted
+2019-03-06 14:16:24,306 INFO [main] Pausing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:24,307 INFO [main] Stopping service [Tomcat]
+2019-03-06 14:16:24,314 INFO [main] The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-03-06 14:16:24,315 INFO [main] Stopping ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:24,315 INFO [main] Destroying ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:24,318 INFO [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-03-06 14:16:24,321 ERROR [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-03-06 14:16:24,324 INFO [main] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:16:35,159 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 14:16:35,159 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 14:16:35,165 INFO [http-nio-8080-exec-1] Completed initialization in 5 ms
+2019-03-06 14:16:35,209 ERROR [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.example.filedemo.auth.Authenticate.auhtUser(Authenticate.java:52)
+	at com.example.filedemo.controller.FileController.executeCommand(FileController.java:89)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2019-03-06 14:16:43,403 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 16220 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 14:16:43,407 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 14:16:45,113 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 14:16:45,131 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:45,140 INFO [main] Starting service [Tomcat]
+2019-03-06 14:16:45,140 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 14:16:45,150 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 14:16:45,252 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 14:16:45,253 INFO [main] Root WebApplicationContext: initialization completed in 1790 ms
+2019-03-06 14:16:45,475 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:16:45,598 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 14:16:45,663 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:45,678 ERROR [main] Failed to start component [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1004)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.example.filedemo.FileDemoApplication.main(FileDemoApplication.java:15)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1001)
+	... 14 common frames omitted
+2019-03-06 14:16:45,682 INFO [main] Pausing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:45,683 INFO [main] Stopping service [Tomcat]
+2019-03-06 14:16:45,690 INFO [main] The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-03-06 14:16:45,691 INFO [main] Stopping ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:45,691 INFO [main] Destroying ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:16:45,693 INFO [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-03-06 14:16:45,695 ERROR [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-03-06 14:16:45,698 INFO [main] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:18:17,468 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 8420 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 14:18:17,475 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 14:18:18,892 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 14:18:18,914 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:18:18,926 INFO [main] Starting service [Tomcat]
+2019-03-06 14:18:18,927 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 14:18:18,938 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 14:18:19,100 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 14:18:19,101 INFO [main] Root WebApplicationContext: initialization completed in 1573 ms
+2019-03-06 14:18:19,357 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:18:19,482 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 14:18:19,558 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:18:19,579 ERROR [main] Failed to start component [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1004)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.example.filedemo.FileDemoApplication.main(FileDemoApplication.java:15)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1001)
+	... 14 common frames omitted
+2019-03-06 14:18:19,585 INFO [main] Pausing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:18:19,586 INFO [main] Stopping service [Tomcat]
+2019-03-06 14:18:19,597 INFO [main] The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-03-06 14:18:19,597 INFO [main] Stopping ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:18:19,598 INFO [main] Destroying ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:18:19,601 INFO [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-03-06 14:18:19,604 ERROR [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-03-06 14:18:19,608 INFO [main] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:18:26,969 ERROR [http-nio-8080-exec-3] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.example.filedemo.auth.Authenticate.auhtUser(Authenticate.java:52)
+	at com.example.filedemo.controller.FileController.executeCommand(FileController.java:89)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2019-03-06 14:23:42,001 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 12724 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 14:23:42,004 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 14:23:43,449 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 14:23:43,466 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:23:43,478 INFO [main] Starting service [Tomcat]
+2019-03-06 14:23:43,478 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 14:23:43,489 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 14:23:43,623 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 14:23:43,624 INFO [main] Root WebApplicationContext: initialization completed in 1570 ms
+2019-03-06 14:23:43,902 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:23:44,039 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 14:23:44,125 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:23:44,170 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 14:23:44,173 INFO [main] Started FileDemoApplication in 2.689 seconds (JVM running for 3.048)
+2019-03-06 14:23:56,903 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 14:23:56,903 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 14:23:56,910 INFO [http-nio-8080-exec-1] Completed initialization in 6 ms
+2019-03-06 14:23:56,962 ERROR [http-nio-8080-exec-1] Unable to write to property file
+2019-03-06 14:25:23,647 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 19868 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 14:25:23,651 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 14:25:25,069 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 14:25:25,086 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:25:25,096 INFO [main] Starting service [Tomcat]
+2019-03-06 14:25:25,096 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 14:25:25,107 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 14:25:25,239 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 14:25:25,239 INFO [main] Root WebApplicationContext: initialization completed in 1542 ms
+2019-03-06 14:25:25,469 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:25:25,570 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 14:25:25,656 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:25:25,689 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 14:25:25,692 INFO [main] Started FileDemoApplication in 2.541 seconds (JVM running for 2.927)
+2019-03-06 14:25:29,533 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 14:25:29,533 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 14:25:29,541 INFO [http-nio-8080-exec-1] Completed initialization in 7 ms
+2019-03-06 14:25:29,600 ERROR [http-nio-8080-exec-1] Unable to write to property file
+2019-03-06 14:26:28,369 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 9580 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 14:26:28,375 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 14:26:29,894 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 14:26:29,910 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:26:29,920 INFO [main] Starting service [Tomcat]
+2019-03-06 14:26:29,921 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 14:26:29,935 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 14:26:30,060 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 14:26:30,061 INFO [main] Root WebApplicationContext: initialization completed in 1632 ms
+2019-03-06 14:26:30,278 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 14:26:30,380 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 14:26:30,448 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 14:26:30,480 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 14:26:30,483 INFO [main] Started FileDemoApplication in 22.747 seconds (JVM running for 23.147)
+2019-03-06 15:02:32,465 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 15:02:32,466 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 15:02:32,473 INFO [http-nio-8080-exec-1] Completed initialization in 7 ms
+2019-03-06 15:02:32,523 ERROR [http-nio-8080-exec-1] Unable to write to property file
+2019-03-06 15:03:45,242 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 21224 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:03:45,246 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:03:46,739 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:03:46,761 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:03:46,772 INFO [main] Starting service [Tomcat]
+2019-03-06 15:03:46,773 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:03:46,783 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:03:46,927 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:03:46,928 INFO [main] Root WebApplicationContext: initialization completed in 1632 ms
+2019-03-06 15:03:46,994 WARN [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fileController': Unsatisfied dependency expressed through field 'fileStorageService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'fileStorageService' defined in file [C:\Parikshit\Spring-rest\file-demo\target\classes\com\example\filedemo\service\FileStorageService.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.filedemo.service.FileStorageService]: Constructor threw exception; nested exception is java.nio.file.InvalidPathException: Illegal char <:> at index 51: C:ParikshitSpring-restTEST-CALLSfile.generate-dir=C:ParikshitSpring-restTEST-CALLS
+2019-03-06 15:03:46,997 INFO [main] Stopping service [Tomcat]
+2019-03-06 15:03:47,019 INFO [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-03-06 15:03:47,024 ERROR [main] Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fileController': Unsatisfied dependency expressed through field 'fileStorageService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'fileStorageService' defined in file [C:\Parikshit\Spring-rest\file-demo\target\classes\com\example\filedemo\service\FileStorageService.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.filedemo.service.FileStorageService]: Constructor threw exception; nested exception is java.nio.file.InvalidPathException: Illegal char <:> at index 51: C:ParikshitSpring-restTEST-CALLSfile.generate-dir=C:ParikshitSpring-restTEST-CALLS
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:596)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1378)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:575)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.example.filedemo.FileDemoApplication.main(FileDemoApplication.java:15)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'fileStorageService' defined in file [C:\Parikshit\Spring-rest\file-demo\target\classes\com\example\filedemo\service\FileStorageService.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.filedemo.service.FileStorageService]: Constructor threw exception; nested exception is java.nio.file.InvalidPathException: Illegal char <:> at index 51: C:ParikshitSpring-restTEST-CALLSfile.generate-dir=C:ParikshitSpring-restTEST-CALLS
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:304)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:285)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1308)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1244)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1164)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.filedemo.service.FileStorageService]: Constructor threw exception; nested exception is java.nio.file.InvalidPathException: Illegal char <:> at index 51: C:ParikshitSpring-restTEST-CALLSfile.generate-dir=C:ParikshitSpring-restTEST-CALLS
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:184)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:300)
+	... 32 common frames omitted
+Caused by: java.nio.file.InvalidPathException: Illegal char <:> at index 51: C:ParikshitSpring-restTEST-CALLSfile.generate-dir=C:ParikshitSpring-restTEST-CALLS
+	at sun.nio.fs.WindowsPathParser.normalize(Unknown Source)
+	at sun.nio.fs.WindowsPathParser.parse(Unknown Source)
+	at sun.nio.fs.WindowsPathParser.parse(Unknown Source)
+	at sun.nio.fs.WindowsPath.parse(Unknown Source)
+	at sun.nio.fs.WindowsFileSystem.getPath(Unknown Source)
+	at java.nio.file.Paths.get(Unknown Source)
+	at com.example.filedemo.service.FileStorageService.<init>(FileStorageService.java:31)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:172)
+	... 34 common frames omitted
+2019-03-06 15:04:22,361 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 15380 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:04:22,364 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:04:23,777 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:04:23,793 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:04:23,802 INFO [main] Starting service [Tomcat]
+2019-03-06 15:04:23,802 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:04:23,812 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:04:23,939 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:04:23,940 INFO [main] Root WebApplicationContext: initialization completed in 1525 ms
+2019-03-06 15:04:24,161 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 15:04:24,264 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 15:04:24,325 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:04:24,355 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 15:04:24,358 INFO [main] Started FileDemoApplication in 2.504 seconds (JVM running for 2.873)
+2019-03-06 15:04:58,742 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 2428 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:04:58,745 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:05:00,148 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:05:00,205 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:05:00,220 INFO [main] Starting service [Tomcat]
+2019-03-06 15:05:00,221 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:05:00,234 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:05:00,348 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:05:00,349 INFO [main] Root WebApplicationContext: initialization completed in 1552 ms
+2019-03-06 15:05:00,614 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 15:05:00,738 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 15:05:00,815 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:05:00,850 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 15:05:00,854 INFO [main] Started FileDemoApplication in 2.618 seconds (JVM running for 2.933)
+2019-03-06 15:05:05,373 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 15:05:05,373 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 15:05:05,380 INFO [http-nio-8080-exec-1] Completed initialization in 6 ms
+2019-03-06 15:05:05,414 ERROR [http-nio-8080-exec-1] Unable to write to property file
+2019-03-06 15:06:05,815 ERROR [http-nio-8080-exec-3] Unable to write to property file
+2019-03-06 15:06:50,685 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 13548 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:06:50,689 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:06:52,240 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:06:52,257 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:06:52,266 INFO [main] Starting service [Tomcat]
+2019-03-06 15:06:52,266 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:06:52,276 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:06:52,385 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:06:52,386 INFO [main] Root WebApplicationContext: initialization completed in 1641 ms
+2019-03-06 15:06:52,682 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 15:06:52,836 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 15:06:52,899 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:06:52,926 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 15:06:52,930 INFO [main] Started FileDemoApplication in 2.839 seconds (JVM running for 3.338)
+2019-03-06 15:06:56,517 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 15:06:56,518 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 15:06:56,523 INFO [http-nio-8080-exec-1] Completed initialization in 5 ms
+2019-03-06 15:06:56,557 ERROR [http-nio-8080-exec-1] Unable to write to property file
+2019-03-06 15:07:54,206 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 15104 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:07:54,209 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:07:55,621 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:07:55,638 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:07:55,646 INFO [main] Starting service [Tomcat]
+2019-03-06 15:07:55,646 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:07:55,656 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:07:55,751 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:07:55,751 INFO [main] Root WebApplicationContext: initialization completed in 1488 ms
+2019-03-06 15:07:55,974 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 15:07:56,102 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 15:07:56,176 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:07:56,210 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 15:07:56,214 INFO [main] Started FileDemoApplication in 2.51 seconds (JVM running for 2.866)
+2019-03-06 15:08:00,158 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 15:08:00,159 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 15:08:00,165 INFO [http-nio-8080-exec-1] Completed initialization in 6 ms
+2019-03-06 15:08:00,205 ERROR [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.example.filedemo.auth.Authenticate.auhtUser(Authenticate.java:53)
+	at com.example.filedemo.controller.FileController.executeCommand(FileController.java:89)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2019-03-06 15:08:57,402 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 21120 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:08:57,407 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:08:59,085 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:08:59,107 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:08:59,119 INFO [main] Starting service [Tomcat]
+2019-03-06 15:08:59,120 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:08:59,133 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:08:59,227 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:08:59,228 INFO [main] Root WebApplicationContext: initialization completed in 1745 ms
+2019-03-06 15:08:59,512 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 15:08:59,636 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 15:08:59,700 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:08:59,732 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 15:08:59,735 INFO [main] Started FileDemoApplication in 13.006 seconds (JVM running for 13.477)
+2019-03-06 15:09:04,317 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 15:09:04,317 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 15:09:04,332 INFO [http-nio-8080-exec-1] Completed initialization in 15 ms
+2019-03-06 15:09:04,387 ERROR [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.example.filedemo.auth.Authenticate.auhtUser(Authenticate.java:54)
+	at com.example.filedemo.controller.FileController.executeCommand(FileController.java:89)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2019-03-06 15:14:14,408 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 12208 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:14:14,411 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:14:15,955 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:14:15,971 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:14:15,981 INFO [main] Starting service [Tomcat]
+2019-03-06 15:14:15,982 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:14:15,992 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:14:16,118 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:14:16,118 INFO [main] Root WebApplicationContext: initialization completed in 1660 ms
+2019-03-06 15:14:16,186 WARN [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fileController': Unsatisfied dependency expressed through field 'auth'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.filedemo.auth.Authenticate' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-03-06 15:14:16,189 INFO [main] Stopping service [Tomcat]
+2019-03-06 15:14:16,197 INFO [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-03-06 15:14:16,290 ERROR [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field auth in com.example.filedemo.controller.FileController required a bean of type 'com.example.filedemo.auth.Authenticate' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.filedemo.auth.Authenticate' in your configuration.
+
+2019-03-06 15:14:21,558 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 10856 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:14:21,561 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:14:23,143 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:14:23,163 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:14:23,174 INFO [main] Starting service [Tomcat]
+2019-03-06 15:14:23,174 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:14:23,186 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:14:23,326 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:14:23,327 INFO [main] Root WebApplicationContext: initialization completed in 1715 ms
+2019-03-06 15:14:23,394 WARN [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fileController': Unsatisfied dependency expressed through field 'auth'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.filedemo.auth.Authenticate' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-03-06 15:14:23,396 INFO [main] Stopping service [Tomcat]
+2019-03-06 15:14:23,406 INFO [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-03-06 15:14:23,499 ERROR [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field auth in com.example.filedemo.controller.FileController required a bean of type 'com.example.filedemo.auth.Authenticate' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.filedemo.auth.Authenticate' in your configuration.
+
+2019-03-06 15:16:32,410 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 16800 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:16:32,415 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:16:43,977 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:16:43,994 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:16:44,004 INFO [main] Starting service [Tomcat]
+2019-03-06 15:16:44,005 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:16:44,015 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:16:44,144 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:16:44,144 INFO [main] Root WebApplicationContext: initialization completed in 11676 ms
+2019-03-06 15:16:44,363 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 15:16:44,461 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 15:16:44,525 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:16:44,555 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 15:16:44,558 INFO [main] Started FileDemoApplication in 12.749 seconds (JVM running for 13.259)
+2019-03-06 15:16:58,827 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 15:16:58,827 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 15:16:58,834 INFO [http-nio-8080-exec-1] Completed initialization in 6 ms
+2019-03-06 15:16:58,878 ERROR [http-nio-8080-exec-1] Property file missing
+2019-03-06 15:17:37,335 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 20580 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:17:47,345 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:17:48,801 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:17:48,817 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:17:48,826 INFO [main] Starting service [Tomcat]
+2019-03-06 15:17:48,826 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:17:48,836 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:17:48,959 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:17:48,960 INFO [main] Root WebApplicationContext: initialization completed in 1512 ms
+2019-03-06 15:17:49,186 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 15:17:49,282 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 15:17:49,342 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:17:49,372 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 15:17:49,376 INFO [main] Started FileDemoApplication in 12.62 seconds (JVM running for 13.104)
+2019-03-06 15:18:07,561 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 15:18:07,561 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 15:18:07,568 INFO [http-nio-8080-exec-1] Completed initialization in 6 ms
+2019-03-06 15:20:22,913 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 14588 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:20:22,917 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:20:24,490 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:20:24,506 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:20:24,515 INFO [main] Starting service [Tomcat]
+2019-03-06 15:20:24,516 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:20:24,525 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:20:24,620 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:20:24,621 INFO [main] Root WebApplicationContext: initialization completed in 1649 ms
+2019-03-06 15:20:24,913 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 15:20:25,015 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 15:20:25,084 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:20:25,117 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 15:20:25,120 INFO [main] Started FileDemoApplication in 2.775 seconds (JVM running for 3.193)
+2019-03-06 15:20:30,292 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 15:20:30,292 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 15:20:30,305 INFO [http-nio-8080-exec-1] Completed initialization in 13 ms
+2019-03-06 15:29:47,696 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 4176 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 15:29:47,699 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 15:29:49,136 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 15:29:49,153 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:29:49,163 INFO [main] Starting service [Tomcat]
+2019-03-06 15:29:49,164 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 15:29:49,174 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 15:29:49,305 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 15:29:49,306 INFO [main] Root WebApplicationContext: initialization completed in 1563 ms
+2019-03-06 15:29:49,527 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 15:29:49,630 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 15:29:49,693 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 15:29:49,727 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 15:29:49,731 INFO [main] Started FileDemoApplication in 2.526 seconds (JVM running for 2.921)
+2019-03-06 15:29:57,027 INFO [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 15:29:57,027 INFO [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-03-06 15:29:57,032 INFO [http-nio-8080-exec-1] Completed initialization in 5 ms
+2019-03-06 16:05:11,239 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 10648 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 16:05:11,247 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 16:05:13,909 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 16:05:13,928 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:05:13,940 INFO [main] Starting service [Tomcat]
+2019-03-06 16:05:13,940 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 16:05:13,950 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 16:05:14,119 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 16:05:14,119 INFO [main] Root WebApplicationContext: initialization completed in 2809 ms
+2019-03-06 16:05:14,367 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 16:05:14,479 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 16:05:14,546 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:05:14,598 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 16:05:14,604 INFO [main] Started FileDemoApplication in 4.081 seconds (JVM running for 4.966)
+2019-03-06 16:06:22,648 INFO [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 16:06:22,649 INFO [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2019-03-06 16:06:22,658 INFO [http-nio-8080-exec-2] Completed initialization in 9 ms
+2019-03-06 16:06:22,744 INFO [http-nio-8080-exec-2] File Updated succesfully
+2019-03-06 16:06:22,745 INFO [http-nio-8080-exec-2] Property file updated
+2019-03-06 16:06:22,753 ERROR [http-nio-8080-exec-2] Error in process builder
+2019-03-06 16:06:22,754 INFO [http-nio-8080-exec-2] File permissions updated
+2019-03-06 16:09:09,649 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 9764 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 16:09:09,657 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 16:09:12,598 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 16:09:12,635 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:09:12,653 INFO [main] Starting service [Tomcat]
+2019-03-06 16:09:12,653 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 16:09:12,681 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 16:09:12,903 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 16:09:12,903 INFO [main] Root WebApplicationContext: initialization completed in 3133 ms
+2019-03-06 16:09:13,397 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 16:09:13,589 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 16:09:13,705 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:09:13,752 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 16:09:13,758 INFO [main] Started FileDemoApplication in 5.201 seconds (JVM running for 6.567)
+2019-03-06 16:09:21,088 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 9756 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 16:09:21,093 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 16:09:23,342 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 16:09:23,369 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:09:23,384 INFO [main] Starting service [Tomcat]
+2019-03-06 16:09:23,384 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 16:09:23,400 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 16:09:23,625 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 16:09:23,626 INFO [main] Root WebApplicationContext: initialization completed in 2443 ms
+2019-03-06 16:09:23,981 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 16:09:24,162 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 16:09:24,278 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:09:24,305 ERROR [main] Failed to start component [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1004)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:226)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:259)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:197)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:311)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:164)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.example.filedemo.FileDemoApplication.main(FileDemoApplication.java:16)
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:236)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1085)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1171)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:568)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1001)
+	... 14 common frames omitted
+2019-03-06 16:09:24,311 INFO [main] Pausing ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:09:24,312 INFO [main] Stopping service [Tomcat]
+2019-03-06 16:09:24,320 INFO [main] The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-03-06 16:09:24,320 INFO [main] Stopping ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:09:24,321 INFO [main] Destroying ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:09:24,325 INFO [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-03-06 16:09:24,327 ERROR [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-03-06 16:09:24,330 INFO [main] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-06 16:09:48,393 INFO [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 16:09:48,393 INFO [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2019-03-06 16:09:48,406 INFO [http-nio-8080-exec-2] Completed initialization in 12 ms
+2019-03-06 16:19:54,153 INFO [main] Starting FileDemoApplication on INW3PB03CSBG with PID 20544 (C:\Parikshit\Spring-rest\file-demo\target\classes started by psanjay in C:\Parikshit\Spring-rest\file-demo)
+2019-03-06 16:19:54,158 INFO [main] No active profile set, falling back to default profiles: default
+2019-03-06 16:19:55,845 INFO [main] Tomcat initialized with port(s): 8080 (http)
+2019-03-06 16:19:55,863 INFO [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:19:55,874 INFO [main] Starting service [Tomcat]
+2019-03-06 16:19:55,875 INFO [main] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-03-06 16:19:55,884 INFO [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jre1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\H2\bin\h2-1.4.197.jar;C:\Program Files (x86)\Bitvise SSH Client;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-api-2.11.1.jar;C:\Parikshit\apache-log4j-2.11.1-bin\apache-log4j-2.11.1-bin\log4j-core-2.11.1.jar;C:\Program Files\PuTTY\;C:\Parikshit\apache-log4j-1.2.17\log4j-1.2.17.jar;C:\Program Files\Amazon\AWSCLI\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jre1.8.0_181\bin;C:\Program Files\terraform_0.11.8_windows_amd64;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Parikshit\Go\bin;C:\Program Files\consul_1.2.2_windows_amd64;C:\Users\psanjay\Downloads\Promethius\prometheus-2.3.2.windows-amd64;C:\Parikshit\PUTTY;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\psanjay\AppData\Local\Programs\Python\Python37-32\;C:\Users\psanjay\AppData\Local\Microsoft\WindowsApps;C:\Users\psanjay\go\bin;C:\Users\psanjay\AppData\Local\GitHubDesktop\bin;.]
+2019-03-06 16:19:56,017 INFO [main] Initializing Spring embedded WebApplicationContext
+2019-03-06 16:19:56,017 INFO [main] Root WebApplicationContext: initialization completed in 1801 ms
+2019-03-06 16:19:56,263 INFO [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 16:19:56,376 INFO [main] Adding welcome page: class path resource [static/index.html]
+2019-03-06 16:19:56,435 INFO [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-03-06 16:19:56,477 INFO [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-06 16:19:56,480 INFO [main] Started FileDemoApplication in 2.978 seconds (JVM running for 3.798)
+2019-03-06 16:20:04,735 INFO [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-06 16:20:04,736 INFO [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2019-03-06 16:20:04,746 INFO [http-nio-8080-exec-2] Completed initialization in 10 ms
+2019-03-06 16:20:04,823 INFO [http-nio-8080-exec-2] Property file updated
+2019-03-06 16:20:39,550 INFO [http-nio-8080-exec-3] Property file updated
